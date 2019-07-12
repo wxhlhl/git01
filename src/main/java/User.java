@@ -9,5 +9,4 @@ public class User {
         this.phone = phone;
     }
 }
-    private String phone3;
-  }
+
